@@ -1,6 +1,6 @@
 # Product list with cart
 
-![Preview](./preview.png)
+![Preview](./Preview.png)
 
 A learning project based on a Frontend Mentor design.  
 Features:
