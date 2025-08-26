@@ -1,5 +1,7 @@
 # Product list with cart
 
+![Preview](./preview.png)
+
 A learning project based on a Frontend Mentor design.  
 Features:
 - Load products from a JSON file
@@ -20,5 +22,6 @@ Features:
 - **Cart architecture** → refactored into a separate module.  
 - **Modal bug** → fixed by removing the modal node instead of just clearing innerHTML.  
 
-## Demo
-🔗 [Live demo]()
+## Demo  
+🔗 [Live Project](https://product-list-with-cart-list.vercel.app/)
+
